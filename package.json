@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@angular/cli": "^14.2.4",
+    "backend": "^0.0.0",
+    "highcharts": "^10.2.1",
+    "highcharts-react": "^0.0.3",
+    "highcharts-react-official": "^3.1.0",
+    "highcharts/modules/exporting": "*",
+    "react": "^18.1.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
