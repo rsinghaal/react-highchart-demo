@@ -43,7 +43,7 @@ class App7 extends Component {
       },
     });
   };
-  updateSeries = () => {
+  updateSeries1 = () => {
     // The chart is updated only with new options.
     this.setState({
       chartOptions: {
@@ -60,7 +60,7 @@ class App7 extends Component {
         <HighchartsReact highcharts={Highcharts} options={chartOptions} />
         <h3>Hovering over {hoverData}</h3>
         <button onClick={this.updateSeries.bind(this)}>Update Series1</button>
-        <button onClick={this.updateSeries.bind(this)}>Update Series</button>
+        <button onClick={this.updateSeries1.bind(this)}>Update Series</button>
       </div>
     );
   }
