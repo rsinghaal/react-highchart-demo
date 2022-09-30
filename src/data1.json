@@ -1,7 +1,7 @@
 [
   {
     "name": "Chrome",
-    "y": 70.67
+    "y": 170.67
   },
   {
     "name": "Edge",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Safari",
-    "y": 2.63
+    "y": 112.63
   },
   {
     "name": "Internet Explorer",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Opera",
-    "y": 1.4
+    "y": 188.4
   },
   {
     "name": "Sogou Explorer",
@@ -33,6 +33,6 @@
   },
   {
     "name": "Other",
-    "y": 2.6
+    "y": 1332.6
   }
 ]
